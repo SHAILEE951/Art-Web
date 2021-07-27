@@ -1,0 +1,47 @@
+body {
+  text-align:center;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+
+}
+#mg1 {
+  border-radius:50%;
+  border:solid;
+    height:300;
+}
+
+#menu {
+list-style:none;
+    font-family: fantasy;
+    position:absolute;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    
+}
+
+.link:hover {
+    background-color:aquamarine;
+}
+
+
+}
+
+#2 {
+    background-color: cornsilk;
+}
+
+img {
+  border:solid;
+ border-width: thick;
+border-color:darkslategrey;
+ height:500
+}
+
+h1 {
+    font-size: 35px;
+    font-family:sans-serif
+}
+
+p {
+    font-size: 20px;
+}
