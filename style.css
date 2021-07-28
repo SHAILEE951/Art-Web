@@ -12,7 +12,7 @@ body {
 #menu {
 list-style:none;
     font-family: fantasy;
-    position:absolute;
+    position:fixed;
     top:10px;
     right:30px;
     cursor:pointer;
@@ -26,8 +26,6 @@ list-style:none;
 
 }
 
-#2 {
-    background-color: cornsilk;
 }
 
 img {
@@ -44,4 +42,19 @@ h1 {
 
 p {
     font-size: 20px;
+}
+
+.link {
+    float:left;
+    display:inline;
+    color: #fff;
+    padding-top: 5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom:5px;
+    font-size:20px;
+}
+
+#fourth {
+    background-color: dodgerblue;
 }
